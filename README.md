@@ -6,6 +6,7 @@ This is my repo I used for making gabut things :3
 ## What's inside
 - Polynomial Division: using the **horner** technique :)
 - Making automatic f(x) function
+- A simple messaging program
 - Update soon
 
 ## Language used is Bahasa
