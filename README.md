@@ -8,4 +8,4 @@ This is my repo I used for making gabut things :3
 - Making automatic f(x) function
 - Update soon
 
-It's free :) I haven't thought about it and haven't learned about the license too xd
+## Language used is Bahasa
