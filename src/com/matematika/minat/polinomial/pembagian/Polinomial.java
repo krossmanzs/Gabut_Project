@@ -11,9 +11,10 @@ public class Polinomial {
                 fx.append(konstantaHasil[i]);
             } else if ((konstantaHasil[i] != 0) && (konstantaHasil[i] > 0)){
                 if (i != 0) { // mencegah konstanta pertama memiliki "+"
-                    fx.append("+");
+                    sbFX.append("+");
+                } if (konstanta[i] != 1) { // mencegah konstanta memiliki angka jika terdapat 1
+                    sbFX.append(konstanta[i]);
                 }
-                fx.append(konstantaHasil[i]);
             }
 
             // jika konstanta bernilai 0 maka akan di skip
